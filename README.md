@@ -1,7 +1,7 @@
 # Classic Arcade Game Clone
 ___
 
-This is a Udacity Front-end Nanodegree project, part of my Google Scholarship. The idea is to recreate a simple clone of the classic Frogger arcade game.
+The idea is to recreate a simple clone of the classic Frogger arcade game.
 
 ## How to play
 
